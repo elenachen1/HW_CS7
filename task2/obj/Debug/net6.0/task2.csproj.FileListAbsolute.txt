@@ -1,0 +1,15 @@
+F:\Geekbrains\C#\hometask7\task2\bin\Debug\net6.0\task2.exe
+F:\Geekbrains\C#\hometask7\task2\bin\Debug\net6.0\task2.deps.json
+F:\Geekbrains\C#\hometask7\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+F:\Geekbrains\C#\hometask7\task2\bin\Debug\net6.0\task2.dll
+F:\Geekbrains\C#\hometask7\task2\bin\Debug\net6.0\task2.pdb
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.dll
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\refint\task2.dll
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.pdb
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+F:\Geekbrains\C#\hometask7\task2\obj\Debug\net6.0\ref\task2.dll
